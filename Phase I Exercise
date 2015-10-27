@@ -27,23 +27,32 @@ Make some additional notes below about each machine as you go: What’s the most
 KAYPRO 4
 
 •	What year was it made? 
+It was released in 1984.  
 •	What operating system does it run? 
+It runs CP/M.  
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+When it was released, it cost $3500 ($8015 in today's dollars).  They are less available than some other Kaypro models on the secondhand market (ex: the Kaypro II), but are still relatively common.    
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+It had a larger screen than its competitors, and its software package, including WordStar and the Perfect suite (PerfectWriter, PerfectCalc, PerfectFiler, and PerfectSpeller) was superior to other models on the market. Its design was critiqued; a 1986 article remarked that the previous Kaypro models had essentially been packaged in tin cans. Another weakness was that it was still running CP/M after MS-DOS had begun to take over as the dominant OS.  It was best known for the software package and for the industrial, "rugged" Kaypro look.  
 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
+
 The power switch was on the back right side of the computer.  My biggest problem with starting WordStar was that I didn't understand at first that you needed to close the flap on Drive A after you insert the floppy disk.  I find the keyboard template very confusing and have mostly succeeded in typing gibberish rather than commands. 
 
 ===================================================================================================================
 APPLE IIe
 
 •	What year was it made? 
-•	What operating system does it run? 
+It was released in January 1983. 
+•	What operating system does it run?
+Apple IIes could run both Apple DOS 3.3 and ProDOS.  
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+When it was released, it cost $1395 ($3332 in today's dollars).  I found a number of eBay auctions for Apple IIes, though rather fewer on Craiglist; ultimately, they seem relatively straightforward to obtain on the secondhand market.  
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+It had a full ASCII character set and keyboard, it lowered production costs, and had a cleaner motherboard design.  It was easier to plug in game and input devices than in previous models, making it a popular model for those interested in gaming. It was also very compatible with earlier Apple software. Its main weakness upon its debut was its high price, but otherwise, it was a very much praised, and remained on the market for eleven years, essentially until Apple's Macintosh line eclipsed the Apple II series altogether.  
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
-The on button is on the lower left front of the computer.  I was unable to manipulated the joystick for Sea Dragon after I completed the tutorial. If I have time, I plan on coming back later to give either that game or another one a shot.  
+The on button is on the lower left front of the computer.  After I completed the tutorial, I loaded Sea Dragon, but the joystick was not cooperative.  
 ====================================================================================================================
 MACINTOSH SE
 
@@ -53,7 +62,7 @@ MACINTOSH SE
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
-The on switch was on the back left side of the computer. Marble Springs is so interesting; I love that it will let you add marginal commentary, and even your own poems, if none currently exist for a character.  In addition to Marble Springs, there is StorySpace, some screensaver software, "moon to Deena," which is in itself a StorySpace file, and Note Pad. There is also a program called Scrapbook, which allows the user to "build a graphics library" and "store [their] favorite sounds." There is also something called "We Descend" that, when I selected it, there was not enough memory to open. There is an alarm clock, a calculator, and a puzzle listed under the Apple menu.   
+The on switch was on the back left side of the computer. Marble Springs is so interesting; I love that it will let you add marginal commentary, and even your own poems, if none currently exist for a character.  In addition to Marble Springs, there is StorySpace, some screensaver software, "moon to Deena," which is in itself a StorySpace file, Bill Bly's "We Descend," and Note Pad. There is also a program called Scrapbook, which allows the user to "build a graphics library" and "store [their] favorite sounds." There is an alarm clock, a calculator, and a puzzle listed under the Apple menu.   
 
 ===================================================================================================================
 VECTREX
